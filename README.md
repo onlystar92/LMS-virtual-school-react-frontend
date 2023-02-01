@@ -19,9 +19,7 @@
 ![image](./public/scr1.png)
  
  ![image](./public/scr2.png)
- ![image](./public/images/Screenshot%20from%202022-07-31%2003-25-49.png)
- ![image](./public/images/Screenshot%20from%202022-07-31%2003-26-21.png)
-
+ 
 ## Table of Content
 
 - [Description](#description)
@@ -57,7 +55,6 @@ Show information about the virtual School and access the resources in order to l
 ### Installation Process
 
 - Clone to their repo : git clone <https://github.com/waronja/LMS-System-Frontend.git>
-- Clone the backend repository.<https://github.com/waronja/LMS-System-Backend.git>
 - Unzip the downloaded files in a folder of choice.
 - open the folder and one can run npm start to start the app in any(chrome) browser.
 
@@ -94,38 +91,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-### Authors' info
-
-Feel free to reach us via:
-
-#### Sylvia Boyani
-- LinkedIn Profile - [Sylvia Boyani](https://www.linkedin.com/in/sylvia-boyani)
-- Instagram - [boyani_sylvia](https://boyani_sylvia.intagram/)
-- twitter -[boyaniSylvia](https://twitter.com/BoyaniSylvia)
-
-#### Judy Mwai
-- LinkedIn Profile - [Sylvia Boyani](https://www.linkedin.com/in/sylvia-boyani)
-- Instagram - [boyani_sylvia](https://boyani_sylvia.intagram/)
-- twitter -[boyaniSylvia](https://twitter.com/BoyaniSylvia)
-
-#### Dennis Mutinda
-- LinkedIn Profile - [Sylvia Boyani](https://www.linkedin.com/in/sylvia-boyani)
-- Instagram - [boyani_sylvia](https://boyani_sylvia.intagram/)
-- twitter -[boyaniSylvia](https://twitter.com/BoyaniSylvia)
-
-#### Gideon Langat
-- LinkedIn Profile - [Sylvia Boyani](https://www.linkedin.com/in/sylvia-boyani)
-- Instagram - [boyani_sylvia](https://boyani_sylvia.intagram/)
-- twitter -[boyaniSylvia](https://twitter.com/BoyaniSylvia)
-
-#### Simon Waronja
-- LinkedIn Profile - [Sylvia Boyani](https://www.linkedin.com/in/sylvia-boyani)
-- Instagram - [boyani_sylvia](https://boyani_sylvia.intagram/)
-- twitter -[boyaniSylvia](https://twitter.com/BoyaniSylvia)
-
-#### Olga Winnie
-- LinkedIn Profile - [Sylvia Boyani](https://www.linkedin.com/in/sylvia-boyani)
-- Instagram - [boyani_sylvia](https://boyani_sylvia.intagram/)
-- twitter -[boyaniSylvia](https://twitter.com/BoyaniSylvia)
