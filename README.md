@@ -13,12 +13,6 @@
 ## Instructor Dashboard
 
 ![image](./public/images/Screenshot%20from%202022-07-31%2003-25-25.png)
-
-## Student Dashboard
-
-![image](./public/scr1.png)
- 
- ![image](./public/scr2.png)
  
 ## Table of Content
 
